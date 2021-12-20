@@ -4,6 +4,8 @@
 
 ### Class Notes
 
+We are working on how to design and develop an API.
+
 ### Sections
 
 - [API-First Design and Development](./step02_api_first_design_development)
