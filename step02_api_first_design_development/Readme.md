@@ -11,4 +11,6 @@
 
 - [API-First Design and Development | The Exploratory](https://www.youtube.com/watch?v=Y4MUtculz0w&ab_channel=Postman)
 
-- []()
+- [Should you adopt an API-first approach to development?](https://searchapparchitecture.techtarget.com/tip/Should-you-adopt-an-API-first-approach-to-development)
+  - With API first approch if API is designed poorly it can cause errors and complications in the futue. So there is need to desgin it based on future usage.
+  - Tools which can be used for API first development are postman, swaggerHub, FastApi, Api manager and ReadyAPI
