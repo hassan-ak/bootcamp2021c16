@@ -11,3 +11,5 @@
     - Ideate by challenging assumptions and creating ideas for innovative solutions.
     - Prototype to start creating solutions
     - Test or solution
+- [Design Thinking and Wicked Problems for APIs](https://dzone.com/articles/design-thinking-and-wicked-problems-for-apis)
+  - Design thinking is a way to solve complex and multi-dimensional problems. As it focuses on the users and tell us what to do. Divergent thinking creates a lot of ideas and then Convenrgent thinking let you decide from those ideas.
