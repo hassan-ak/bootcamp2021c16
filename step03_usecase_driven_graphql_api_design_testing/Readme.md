@@ -29,3 +29,22 @@
 
 - [Use Case And Use Case Testing Complete Tutorial](https://www.softwaretestinghelp.com/use-case-testing/)
   - When a problem is ideated before going to prototype define use cases.
+
+### Data and Use-Case Driven Design
+
+- [The tension between data & use-case driven GraphQL APIs](https://xuorig.medium.com/the-tension-between-data-use-case-driven-graphql-apis-8f982198653b)
+  - For data driven needs we need to define an other API as normal apis are for use case needs.
+
+### User Centric Mutations
+
+- [Designing GraphQL Mutations](https://www.apollographql.com/blog/graphql/basics/designing-graphql-mutations/)
+  - name a mutation as it is as a command (createUser)
+
+### Panacloud API Design Process
+
+- [Use Cases](https://docs.google.com/presentation/d/18NeTETwvKojwKlfD2Ap7c1zSV7QqPha_--0j-dFGHTU/edit#slide=id.p)
+- [Wireframes](https://docs.google.com/presentation/d/1war9JkYBS8FG_em59oyRtrx1TXJhoZz74hgvgsPvY4A/edit?usp=sharing)
+- [Panacloud MVP Coverage](https://docs.google.com/presentation/d/1Y0n8etHrvviCh8D14bXkFgDlmmZ_NO39gnyNhzLihL0/edit)
+- [GraphQL MVP APIs](https://docs.google.com/presentation/d/1QhoYR0FNS7RPFgCtlvTdtYeTfnAEtqv_xcJQjaZubvg/edit#slide=id.gf2a64a9395_0_0)
+- [Events MVP Design and Schema](https://docs.google.com/presentation/d/1qB2uU4CrFXYNhD7YtXmJm4M929TAm0Iunzjr3MVJLiw/edit#slide=id.gf2d49d3d25_0_6)
+- [Graph Database MVP Design and Queries](https://docs.google.com/presentation/d/14SpbzXFAhD1EDnSuHx-vCkeND5JiGLwu8xZ_npzAS6w/edit)
