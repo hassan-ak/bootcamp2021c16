@@ -15,4 +15,10 @@
   - Design thinking is a way to solve complex and multi-dimensional problems. As it focuses on the users and tell us what to do. Divergent thinking creates a lot of ideas and then Convenrgent thinking let you decide from those ideas.
 - [How Design Thinking Can Make Your Good API Amazing](https://www.programmableweb.com/news/how-design-thinking-can-make-your-good-api-amazing/sponsored-content/2018/10/24)
   - Design thinking is all about improving usability.
+- [Design Thinking and API Design](https://medium.com/capital-one-tech/experimental-api-strategy-from-capital-one-be72db15362)
+
+### API As a Product
+
+- [What Is an API-as-a-Product?](https://nordicapis.com/what-is-an-api-as-a-product/)
+  - When others are using our API and paying for it, design first approach becomes more important. Stripe is a comapny which sells API's.
 - []()
