@@ -13,3 +13,6 @@
     - Test or solution
 - [Design Thinking and Wicked Problems for APIs](https://dzone.com/articles/design-thinking-and-wicked-problems-for-apis)
   - Design thinking is a way to solve complex and multi-dimensional problems. As it focuses on the users and tell us what to do. Divergent thinking creates a lot of ideas and then Convenrgent thinking let you decide from those ideas.
+- [How Design Thinking Can Make Your Good API Amazing](https://www.programmableweb.com/news/how-design-thinking-can-make-your-good-api-amazing/sponsored-content/2018/10/24)
+  - Design thinking is all about improving usability.
+- []()
