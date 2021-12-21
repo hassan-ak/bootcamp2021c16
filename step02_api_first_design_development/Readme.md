@@ -12,5 +12,9 @@
 - [API-First Design and Development | The Exploratory](https://www.youtube.com/watch?v=Y4MUtculz0w&ab_channel=Postman)
 
 - [Should you adopt an API-first approach to development?](https://searchapparchitecture.techtarget.com/tip/Should-you-adopt-an-API-first-approach-to-development)
+
   - With API first approch if API is designed poorly it can cause errors and complications in the futue. So there is need to desgin it based on future usage.
   - Tools which can be used for API first development are postman, swaggerHub, FastApi, Api manager and ReadyAPI
+
+- [API-First, API Design-First, or Code-First](https://blog.stoplight.io/api-first-api-design-first-or-code-first-which-should-you-choose)
+  - For clarity there are three ways to build API, code first, api first and design first. The best way is to design first. In design first process every person of the team participate in the designing process.
