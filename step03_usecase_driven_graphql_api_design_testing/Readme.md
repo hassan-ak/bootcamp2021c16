@@ -25,4 +25,7 @@
   - Product Thinking looks at drivers and the competitive landscape. It helps you determine the actual problem the user is facing. By looking at Product Thinking as the product in the context of its overall purpose, Design Thinking is applied to a mix of features and focused sprints, both based on the user’s thinking. This includes the overall process of merging the problem of the users to the solution of the business.
 - [Design Strategy for APIs](https://uxplanet.org/design-strategy-for-apis-581849a821a?gi=327892e99abc)
 
-###
+### Use Case Driven Design
+
+- [Use Case And Use Case Testing Complete Tutorial](https://www.softwaretestinghelp.com/use-case-testing/)
+  - When a problem is ideated before going to prototype define use cases.
