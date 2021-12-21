@@ -21,4 +21,8 @@
 
 - [What Is an API-as-a-Product?](https://nordicapis.com/what-is-an-api-as-a-product/)
   - When others are using our API and paying for it, design first approach becomes more important. Stripe is a comapny which sells API's.
-- []()
+- [Is Product Thinking the same as Design Thinking?](https://blog.axway.com/customer-experience/product-thinking-and-design-thinking)
+  - Product Thinking looks at drivers and the competitive landscape. It helps you determine the actual problem the user is facing. By looking at Product Thinking as the product in the context of its overall purpose, Design Thinking is applied to a mix of features and focused sprints, both based on the user’s thinking. This includes the overall process of merging the problem of the users to the solution of the business.
+- [Design Strategy for APIs](https://uxplanet.org/design-strategy-for-apis-581849a821a?gi=327892e99abc)
+
+###
